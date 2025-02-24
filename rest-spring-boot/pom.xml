@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>rest-spring-boot</artifactId>
+	<artifactId>01-rest-spring-boot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>rest-spring-boot</name>
 	<description>rest-spring-boot</description>
